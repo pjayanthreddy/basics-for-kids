@@ -1,0 +1,5 @@
+def adding_two_numbers(x,y):
+  result = x+y
+  return result
+
+print(adding_two_numbers(3,2))
